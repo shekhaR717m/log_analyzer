@@ -1,0 +1,40 @@
+ERROR: Database connection failed for user_id 108
+ERROR: Database connection failed for user_id 106
+ERROR: Database connection failed for user_id 104
+ERROR: Database connection failed for user_id 109
+ERROR: Database connection failed for user_id 103
+ERROR: Database connection failed for user_id 101
+ERROR: Database connection failed for user_id 101
+ERROR: Database connection failed for user_id 104
+ERROR: Database connection failed for user_id 100
+ERROR: Database connection failed for user_id 109
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.167
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.165
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.121
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.108
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.59
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.74
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.211
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.173
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.172
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.194
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.251
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.248
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.5
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.80
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.145
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.92
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.230
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.238
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.180
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.61
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.164
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.105
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.177
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.104
+AUTH_FAILURE: Invalid password for user 'admin' from IP 192.168.1.223
+ERROR: DB Connection Lost for user 43
+ERROR: DB Connection Lost for user 6
+ERROR: DB Connection Lost for user 13
+ERROR: DB Connection Lost for user 39
+ERROR: DB Connection Lost for user 33
