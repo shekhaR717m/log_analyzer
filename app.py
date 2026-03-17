@@ -24,7 +24,7 @@ def send_to_discord(template, explanation, count):
         return
     data = {
         "embeds": [{
-            "title": "🚨 AIOps Incident Detected",
+            "title": "AIOps Incident Detected",
             "color": 15548997, # Red
             "fields": [
                 {"name": "Log Template", "value": f"`{template}`", "inline": False},
